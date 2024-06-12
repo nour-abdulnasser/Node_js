@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "nour",
+    "email": "nour@route.ai",
+    "password": "123456nour",
+    "deptId": "2"
+  },
+  {
+    "id": 2,
+    "name": "noor",
+    "email": "noor@route.ai",
+    "password": "123456noor",
+    "deptId": "2"
+  },
+  {
+    "id": 3,
+    "name": "hour",
+    "email": "hour@route.ai",
+    "password": "123456nour",
+    "deptId": "2"
+  }
+]
