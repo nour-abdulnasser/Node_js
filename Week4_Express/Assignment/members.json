@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "noah doe",
+    "national_id": "12345678901",
+    "phone_number": "01234567890",
+    "membership": { "from": "2023-01-01", "to": "2025-12-31", "cost": 500 },
+    "status": "freeze",
+    "trainer_id": 101
+  },
+  {
+    "id": 2,
+    "name": "nour doe",
+    "national_id": "22345678901",
+    "phone_number": "22234567890",
+    "membership": { "from": "2023-02-15", "to": "2025-02-14", "cost": 600 },
+    "status": "active",
+    "trainer_id": 102
+  },
+  {
+    "id": 3,
+    "name": "john doe",
+    "national_id": "98765432111",
+    "phone_number": "01234567890",
+    "membership": { "from": "2023-01-01", "to": "2025-12-31", "cost": 500 },
+    "status": "active",
+    "trainer_id": 101
+  },
+  {
+    "name": "FOUR doe",
+    "national_id": "97765432111",
+    "phone_number": "01234567890",
+    "membership": { "from": "2023-01-01", "to": "2025-12-31", "cost": 500 },
+    "status": "active",
+    "trainer_id": 102,
+    "id": 4
+  },
+  {
+    "id": 5,
+    "name": "fifth doe",
+    "national_id": "99765432111",
+    "phone_number": "01234567890",
+    "status": "active",
+    "trainer_id": 101
+  }
+]
